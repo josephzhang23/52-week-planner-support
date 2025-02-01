@@ -74,7 +74,7 @@ You have complete control over your data:
 ## Contact Us
 
 If you have questions about this privacy policy, contact us at:
-- Email: [josephzhang.works@gmail.com]
+- Email: josephzhang.works@gmail.com
 
 ## Legal Compliance
 
