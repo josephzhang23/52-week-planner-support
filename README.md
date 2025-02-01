@@ -2,6 +2,8 @@
 
 Welcome to 52 Week Planner! This document will help you get started and make the most of the app.
 
+![App Icon](https://github.com/user-attachments/assets/0ecc4506-721c-4782-98e7-969d21856aa2)
+
 ## Getting Started
 
 52 Week Planner helps you organize tasks and plan your year week by week. Here's how to get started:
