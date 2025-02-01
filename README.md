@@ -50,7 +50,7 @@ A: Open a task and use the "Add subtask..." field at the bottom of the subtasks 
 
 Need help? Have suggestions? Contact us:
 
-- Email: [josephzhang.works@gmail.com]
+- Email: josephzhang.works@gmail.com
 
 ## Privacy Policy
 
